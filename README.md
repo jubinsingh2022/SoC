@@ -1,1 +1,2 @@
-# SoC
+# SoC 
+In this first week we learnt the basics of python which I was quite well rehearsed with since I had done python in my class 11th and 12th. In the 2nd week we were given materials related to basics of MACHINE Learning and some mathematical part. In the 3rd week we dived deep into the Machine learning part with the help of an online course by Andew Ng. In the 4th week we started with the coding part. In the 5th week which is currently ongoing we will be building and training the model. Also we will check the prediction on simple images.
